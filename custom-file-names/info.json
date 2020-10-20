@@ -1,0 +1,10 @@
+{
+  "name": "Custom filename format",
+  "identifier": "custom-file-names",
+  "script": "custom-file-names.qml",
+  "authors": ["oleg.komaristov@gmail.com"],
+  "platforms": ["linux", "macos", "windows"],
+  "version": "0.0.2",
+  "minAppVersion": "20.10.4",
+  "description" : "The script allows using the first line of the note as a file name. It will be converted to the lowercase, trimmed, symbols ' ' and '/' replaced by '-' and '-or-.'"
+}
